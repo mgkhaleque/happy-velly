@@ -1,4 +1,4 @@
-happy velly
+happy velly and redefined-happiness
 color of happiness:
 sky blue
 white
@@ -15,4 +15,8 @@ no whinning
 sweet hugs
 smiling eys
 warm welcome!
+<<<<<< redefined-happiness
+warm kiss!
+=======
 pluck bones!!
+<<<<< master
